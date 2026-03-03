@@ -1,7 +1,7 @@
 
   # Online Reservation System
 
-  This is a code bundle for Online Reservation System. The original project is available at https://www.figma.com/design/Ke3olOIl2s8tpmzWq3hC1I/Online-Reservation-System.
+  This is a code bundle for Online Reservation System.
 
   ## Running the code
 
